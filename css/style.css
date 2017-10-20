@@ -1,0 +1,114 @@
+div{
+	float: left;
+	margin-right: 20px;
+}
+
+.fa{
+	font-size: 100px;
+	margin-top: 10px;
+}
+
+h2{
+	font-family: 'Rochester', cursive;
+	color: #34495E;
+}
+
+h6{
+	font-family: 'Arsenal', sans-serif;
+	color: #17A589;
+}
+
+h5{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 16px;
+	color: #9B59B6;
+}
+
+.fa-paper-plane-o{
+	font-size: 500px;
+	color: black;
+	cursor: pointer;
+}
+
+.primeracaja{ 
+	width: 190px;
+	height: 250px;
+	border: 1px solid #000;
+	text-align: center;
+	margin-bottom: 100px;
+	padding: 5px;
+	background-color: #EBEDEF  ;
+}
+
+.fa-diamond{
+	font-size: 500px;
+	color: black;
+	cursor: pointer;
+}
+
+.segundacaja{ 
+	width: 190px;
+	height: 250px;
+	border: 1px solid #000;
+	text-align: center;
+	margin-bottom: 100px;
+	padding: 5px;
+	background-color: #EBEDEF  ;
+}
+
+.fa-gratipay{
+	font-size: 500px;
+	color: black;
+	cursor: pointer;
+}
+
+.fa-gratipay:hover{
+	color: gray;
+	font-size: 100px;
+}
+
+.terceracaja{ 
+	width: 190px;
+	height: 250px;
+	border: 1px solid #000;
+	text-align: center;
+	margin-bottom: 100px;
+	padding: 5px;
+	background-color: #EBEDEF  ;
+}
+
+.fa-coffee{
+	font-size: 500px;
+	color: black;
+	cursor: pointer;
+}
+
+.cuartacaja{ 
+	width: 190px;
+	height: 250px;
+	border: 1px solid #000;
+	text-align: center;
+	margin-bottom: 100px;
+	padding: 5px;
+	background-color: #EBEDEF  ;
+}
+
+.fa-cutlery{
+	font-size: 500px;
+	color: black;
+	cursor: pointer;
+}
+
+.quintacaja{ 
+	width: 190px;
+	height: 250px;
+	border: 1px solid #000;
+	text-align: center;
+	margin-bottom: 100px;
+	padding: 5px;
+	background-color: #EBEDEF  ;
+}
+
+
+
+
